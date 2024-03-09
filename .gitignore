@@ -1,0 +1,137 @@
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Build output
+build/
+dist/
+out/
+
+# Dependency directories (alternative package managers)
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Logs
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+.eslintcache
+.stylelintcache
+.rpt2_cache/
+.rts2_cache_*
+
+# Temporary testing or debugging data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS specific temporary or cache files
+*.tmp
+*.sock
+*.sqlite
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local  # Matches all environment variations
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Babel cache
+.babelrc
+.babelrc.json
+.babelrc.js
+
+# Browsersync
+.browserslistrc
+
+# Parcel
+.cache
+
+# Next.js
+.next
+out
+
+# Nuxt.js
+.nuxt
+dist
+
+# Gatsby
+.cache/
+
+# Serverless directory
+.serverless/
+
+# FuseBox
+.fusebox/
+
+# Jest / Mocha
+jest/
+mocha.opts
+
+# Storybook
+.storybook/
+
+# TypeScript
+*.tsbuildinfo
+
+# Docusaurus
+.docusaurus
+
+# DynamoDB Local
+.dynamodb/
+
+# TernJS
+.tern-port
+
+# VSCode extensions test data
+.vscode-test
+
+# Yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+
+# Optional npm cache
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Lerna debug logs
+lerna-debug.log*
+
+# Report generation
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Grunt
+.grunt
+
+# Bower
+bower_components
+
+# Node-waf
+.lock-wscript
+build/Release
+
+# Snowpack
+web_modules/
+
+# TypeScript cache
+*.tsbuildinfo
